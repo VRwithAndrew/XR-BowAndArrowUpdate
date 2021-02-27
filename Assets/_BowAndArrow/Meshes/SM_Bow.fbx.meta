@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 0749e30cf9ee8c6448bd2a82cd428c5f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bow_base
+    100002: bow_base_CTRL
+    100004: bow_base_CTRL_AnimNUL
+    100006: bow_base_CTRL_HmNUL
+    100008: bow_base_CTRL_SpaceNUL
+    100010: bow_noString
+    100012: btmArm0
+    100014: btmArm1
+    100016: btmArm2
+    100018: btmArm3
+    100020: //RootNode
+    100022: notch
+    100024: stringBtm
+    100026: stringBtmArc
+    100028: stringBtmNotch
+    100030: StringGeom
+    100032: stringTop
+    100034: stringTopArc
+    100036: stringTopNotch
+    100038: topArm0
+    100040: topArm1
+    100042: topArm2
+    100044: topArm3
+    400000: bow_base
+    400002: bow_base_CTRL
+    400004: bow_base_CTRL_AnimNUL
+    400006: bow_base_CTRL_HmNUL
+    400008: bow_base_CTRL_SpaceNUL
+    400010: bow_noString
+    400012: btmArm0
+    400014: btmArm1
+    400016: btmArm2
+    400018: btmArm3
+    400020: //RootNode
+    400022: notch
+    400024: stringBtm
+    400026: stringBtmArc
+    400028: stringBtmNotch
+    400030: StringGeom
+    400032: stringTop
+    400034: stringTopArc
+    400036: stringTopNotch
+    400038: topArm0
+    400040: topArm1
+    400042: topArm2
+    400044: topArm3
+    2100000: lambert2
+    2100002: stringLambert
+    2100004: notchLambert
+    4300000: bow_noString
+    4300002: StringGeom
+    7400000: Pull
+    9500000: //RootNode
+    13700000: bow_noString
+    13700002: StringGeom
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pull
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
